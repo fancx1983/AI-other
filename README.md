@@ -4,11 +4,10 @@
 
 ## 内容
 
--  - 豆瓣自动化脚本（添加想看/想读，已修复「保存」按钮逻辑）
--  - 豆瓣登录 Cookie（请勿外传）
--  - 微信机器人联动脚本
+- `douban_bot.py` - 豆瓣自动化脚本（添加想看/想读，已修复「保存」按钮逻辑）
+- `wechat_bot.py` - 微信机器人联动脚本
+- `douban_cookies.json` - 豆瓣登录 Cookie（请勿外传）
 
 ## 使用
 
-详见 [douban-bot 技能说明](../..) 或 Workspace 中的 skill 文件。
-
+详见 Workspace 中对应的 skill 文件。
